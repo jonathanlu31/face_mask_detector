@@ -18,4 +18,5 @@ To detect all the masks in an image, run the file with the flag -i or --image an
 
 ## Acknowledgements
 
-* [pyimagesearch](https://pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/#download-the-code)
+* [pyimagesearch](https://pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
+* Dataset from this [repo](https://github.com/chandrikadeb7/Face-Mask-Detection/tree/master/dataset)
